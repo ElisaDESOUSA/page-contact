@@ -1,2 +1,2 @@
 # page-contact
-Création d'une page contact en PHP
+Création d'un livre de recette en PHP incluant une page contact : https://elisadesousa.github.io/page-contact/
